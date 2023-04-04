@@ -48,5 +48,30 @@
     "id": 10,
     "texto": "Razonable",
     "img": "https://i.imgur.com/he0Aup4.jpg"
+  },
+  {
+    "id": 11,
+    "texto": "Yo esforzandome en la entrevista",
+    "img": "https://i.imgur.com/3QPciD2.jpg"
+  },
+   {
+    "id": 12,
+    "texto": "Pq juego lol?",
+    "img": "https://i.imgur.com/1N5of2u.jpg"
+  },
+     {
+    "id": 13,
+    "texto": "Bolivar cheems",
+    "img": "https://i.imgur.com/bn8lvIw.jpg"
+  },
+     {
+    "id": 14,
+    "texto": "IVAN",
+    "img": "https://i.imgur.com/KmJ1gtl.jpg"
+  },
+  {
+    "id":15,
+    "texto" "meow meow"
+    "img":"https://i.imgur.com/gCbz9IL.jpg"
   }
 ]
